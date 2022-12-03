@@ -1,9 +1,10 @@
 - 👋 Hi There!
 
 I'm Ankitha, a Computer Science graduate student at Purdue University. I worked as an Associate in Data & Analytics at KPMG US for about 2 years on their 
-advanced capabilities called Clara, an integrated system for ERPs. 
+advanced capabilities called Clara, an integrated system for ERPs along with building custom firm relevant NLP applications such as conversational bots and account mapping engines in collaboration with the KPMG Europe team.
+
 I have also designed and developed NLP applications with a focus on social media and financial data. I have worked on areas of computer vision
-with a focus on the amalgamation of image processing anomaly detection and video summarization which has been published as a patent.
+with a focus on the amalgamation of image processing , anomaly detection and video summarization which has been published as a patent.
 My area of research is speech and language understanding (SLU).
 
 - 🔭 I’m currently working on ...
